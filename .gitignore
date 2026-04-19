@@ -1,0 +1,23 @@
+# Dataset folder (large image files)
+dataset/
+
+# Model files
+mask_detector.h5
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
